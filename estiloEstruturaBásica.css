@@ -1,0 +1,96 @@
+body{
+background: #f7f7f7;
+
+
+}
+
+
+img.image2{
+    width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+img.sublimeLogo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a {
+    color: black;
+}
+.sublimeLogo{
+text-align: center;
+border: 2px solid black;
+margin-top: 25px;
+border-radius: 20%;
+padding: 30px;
+
+}
+
+.image2 {
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#title {
+    color: rgb(230, 79, 24);
+    font-style: italic;
+    font-family: Ubuntu, Times New Roman;
+    font-size: 42px;
+    text-align: center;
+    text-decoration: overline underline;
+}
+.subtitle, .postTitle{
+    color: #505050;
+
+}
+
+.postTitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: white;
+    padding: 15px;
+    border: 2px solid #505050;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.postContent{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: justify;
+margin: 0;
+margin-bottom: 15px;
+
+}
+#slogan {
+    text-align: center;
+    
+}
+
+li.linkedin {
+    list-style-image: url("/home/will/Desktop/ProjetosWeb/SublimeWebSite/images/linkedInIco.png");
+}
+
+li.gmail {
+    list-style-image: url("/home/will/Desktop/ProjetosWeb/SublimeWebSite/images/gmailIco.png");
+}
+
+li.github {
+    list-style-image: url("/home/will/Desktop/ProjetosWeb/SublimeWebSite/images/githubIco.png");
+}
+ul.listaContatos {
+padding-left: 30px;
+}
+
+section.conteudoPrincipal {
+max-width: 900px;
+margin: auto;
+
+}
